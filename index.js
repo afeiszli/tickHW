@@ -1,4 +1,4 @@
-console.log("Hello World");
+console.log("Hello red Hat");
 
 var calculateSquare = function(numIn) {
     var numOut = numIn * numIn;
